@@ -10,4 +10,10 @@ if __name__ == "__main__":
     variables = sys.argv[1:]
 
     print_arguments(script_name, *variables)
+
+# Text from Professor LAb
+def helloWorld():
+	print ('helloWorld')
+helloWorld()
+
 print('Code by Mzikria')
